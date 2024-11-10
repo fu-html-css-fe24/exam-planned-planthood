@@ -23,7 +23,7 @@ För att få godkänt ska ni:
 
 ## Ni behöver inte:
 
-- skapa en himla massa media queries! I Figmaskissen har ni endast 2 skärmstorleker och det är dessa två lägen jag är ute efter. Er mobilvariant bör fungera mellan 390px upp till 600px, och er desktop bör se bra ut på 990px och uppåt.
+- skapa flera media queries! I Figmaskissen har ni endast 2 skärmstorleker och det är dessa två lägen jag är ute efter. Er mobilvariant bör fungera mellan 390px upp till 600px, och er desktop bör se bra ut på 990px och uppåt.
 
 ## Specifikationer
 
@@ -33,6 +33,6 @@ För att få godkänt ska ni:
 
 Inlämning sker senast via Azomo den 17/11 kl 23:59. Varje person i gruppen skall lämna in en länk till repot ni jobbat i. Om ni skapat ett privat repo (vilket jag inte rekommenderar) så MÅSTE ni bjuda in mig som collaborator.
 
-### Övrigt
+## Övrigt
 
 I mappen assets hittar ni de svg-ikoner som behövs för att återskapa Figma-skissen, och dessa får ni använda hur mycket ni vill. Bilderna däremot är "snodda" från Unsplash, vilket innebär att man i ett riktigt live-projekt som publiceras publikt måste credda fotografen. Detta är ingenting ni behöver bry er om i denna uppgift eftersom att lägga upp sin kod på Github inte riktigt räknas, men det kan vara bra att ha det i åtanke framöver. Länkar till bilderna hittar ni i kommentarerna till varje bild i Figma-skissen.
